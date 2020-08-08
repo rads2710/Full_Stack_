@@ -51,7 +51,7 @@ body{
     justify-content: center;
   }
   .circle {
-    background-color: rgb(124, 66, 66);
+    background-color: rgb(151, 37, 113);
     border-radius:50%;
     height:320px;
     width: 320px;   
@@ -71,7 +71,7 @@ body{
   }
 
 .left{
-    background-color: rgb(116, 113, 113);
+    background-color: rgb(60, 46, 94);
     width: 50%;
     height: 540px;
     text-align: center;
@@ -95,7 +95,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(129, 91, 129);
+    background-color: rgb(55, 136, 35);
     font-size: 40px;
     height: 180px;
 }
@@ -110,13 +110,13 @@ body{
   }
   
   .rectBox {
-    background-color: rgb(54, 204, 116);
+    background-color: rgb(10, 46, 122);
     width: 22%;
     margin: 10px 15px;
   }
 
   .footer{
-    background-color: rgb(235, 144, 144);
+    background-color: rgb(224, 129, 193);
     font-size: 40px;
     margin-top: 15px;
     margin-bottom: 10px;
